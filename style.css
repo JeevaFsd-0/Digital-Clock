@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://wallpapercrafter.com/desktop/9039-clock-dial-fractal-hologram-dark-4k.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 97vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+#time {
+    color: #fff;
+    font-size: 150px;
+} 
+    
